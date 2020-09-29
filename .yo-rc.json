@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.safeweb",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "microservice",
+    "baseName": "swContainers",
+    "packageName": "com.safeweb",
+    "packageFolder": "com/safeweb",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2ZkNmQxMTY5YWNkMmQ3OWZjMjllODc0MzQxY2M0YTJhNmFjNTdhMjE3ZDI0NWIyZDIyYzQ0MTcwZTg1ZWExZGQwMzQ5ODFiZDYwY2RkZjA2Njg5MTkxZDEyN2E1OTJjYTU0OWE1YjNkYmRhYTQwZDc3ZGM4MmE1ZTU1NTNlZDU=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1601369202201,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "zh-cn"],
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
